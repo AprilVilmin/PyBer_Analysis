@@ -31,9 +31,8 @@ Like the Average Fare per Ride metric, the Average Fare Per Driver metric is als
 
 
 ## Summary
+Based on the results, the following recommendatiosn are made"
 
-
-
-Overview of the analysis: Explain the purpose of the new analysis.
-Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+1. Try to increase both riders and drivers in suburban cities.
+2. Reduce the number of drivers in urban areas to try to increase the Average Fare per Driver for urban cities.
+3. Increase the number of drivers in rural cities If the drivers didn't have to travel as far or the customers have to wait so long, maybe there would be higher utilization.
