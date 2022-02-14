@@ -5,6 +5,10 @@ As a new data analyst at PyBer, a ridesharing company, you are tasked with makin
 
 ## Results
 
+![PyBer_Summary_DataFrame.png](https://github.com/AprilVilmin/PyBer_Analysis/blob/main/Analysis/PyBer%20Summary%20DataFrame.png)
+
+![PyBer_fare_summary.png](https://github.com/AprilVilmin/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
+
 
 ## Summary
 
